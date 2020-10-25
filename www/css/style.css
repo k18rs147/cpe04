@@ -74,10 +74,46 @@
       position:absolute;
       top:500px;
       left:60px;
-      buttom:50px;     
+      bottom:50px;     
     }
     
-    
+    #btnD{
+      font-size: 30px;
+      top:50px;
+      width:23%; 
+      height:60px;
+      position:absolute;
+      right:50px;
+    }
+
+    #btnE{
+      font-size: 30px;
+      top:130px;
+      width:23%; 
+      height:60px;
+      position:absolute;
+      right:50px;
+    }
+
+    #btnF{
+      font-size: 30px;
+      top:200px;
+      width:23%; 
+      height:60px;
+      position:absolute;
+      right:50px;
+    }
+
+     #Rbtn{
+      font-size: 30px;
+      bottom:50px;
+      width:40%; 
+      height:60px;
+      position:absolute;
+      right:5px;
+    }
+
+
     input[type=number] {text-align: right;}
 
     body{

@@ -199,12 +199,16 @@
       audio.src = "pin.wav";
       audio.play();
       }
-    
+
+    function main(e){
+      $("body").css("backgroundColor","green");
+    }
+
     // ButtonAがクリックされた時の処理
     function btnAClick(e){
         active = true;
         startTime = new Date();
-        
+
         var c="実行中";
         $("#set").html(c);          
     }
@@ -290,6 +294,8 @@
           if(rest <= 0){
             active = false;
             alarm();
+          }else if(rest<=30){
+            main();
           }
         }
         

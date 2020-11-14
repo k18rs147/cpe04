@@ -32,12 +32,12 @@
     }
     
     #btnB {
-        font-size: 20px;
+        font-size: 15px;
         position:absolute; top:380px; left:45%; width:30%; height:60px; 
     }
 
     #btnC {
-        font-size: 22px;
+        font-size: 15px;
         position:absolute; top:380px; left:76%; width:23%; height:60px; 
     }
     
@@ -52,7 +52,7 @@
     }
 
     #set{
-      font-size:40px;
+      font-size:30px;
       color:red;
       background-color: white;
       position:absolute;
@@ -62,7 +62,7 @@
     }
     
     #btnD{
-      font-size: 30px;
+      font-size: 20px;
       top:50px;
       width:23%; 
       height:60px;
@@ -71,7 +71,7 @@
     }
 
     #btnE{
-      font-size: 30px;
+      font-size: 20px;
       top:130px;
       width:23%; 
       height:60px;
@@ -80,7 +80,7 @@
     }
 
     #btnF{
-      font-size: 30px;
+      font-size: 20px;
       top:200px;
       width:23%; 
       height:60px;
@@ -89,7 +89,7 @@
     }
 
      #Rbtn{
-      font-size: 30px;
+      font-size: 20px;
       bottom:50px;
       width:40%; 
       height:60px;
